@@ -1,0 +1,6 @@
+{
+  "username": "root",
+  "password": "polinesios",
+  "url": "jdbc:mysql://localhost:3306/proyecto_melany",
+  "sql": "on"   
+}
